@@ -23,4 +23,8 @@ Src>
                Login.Feature
                Product.Feature
         
-          
+
+To run the project:
+
+1. Go to TestRunner file in src>test>java>TestRunner
+2. Right click the TestRunner and Click Run 'Test Runner'
