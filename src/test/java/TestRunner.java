@@ -3,7 +3,7 @@ import io.cucumber.testng.CucumberOptions;
 
 @CucumberOptions(
         features = "src/test/resources/Features/",
-        glue = "/src/test/java/StepDefinition/AddRemoveProductsSteps"
+        glue = "StepDefinition"
 )
 public class TestRunner extends AbstractTestNGCucumberTests {
 
