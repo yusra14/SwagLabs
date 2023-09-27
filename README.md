@@ -8,18 +8,18 @@ The project has 2 features.
 
 The hierarchy of project is as follows:
 
-Src
-   test
-       java
-           pages 
+Src>
+   test>
+       java>
+           pages >
                LoginPage
                ProductsPage
-           StepDefinition
+           StepDefinition>
                AddRemoveProductSteps
                LoginSteps
-           TestRunner
-      resources
-          Features
+           TestRunner>
+      resources>
+          Features>
                Login.Feature
                Product.Feature
         
